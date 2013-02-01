@@ -10,11 +10,11 @@ The connection to the board is done with johnny-five.
 
 ## Arduino parts
 
-You can check the arduino app #### [here](https://github.com/romaindr/arduinoLEDsRGB_arduino)
+You can check the arduino app [here](https://github.com/romaindr/arduinoLEDsRGB_arduino)
 
 ## web app
 
-You can check the web app #### [here](https://github.com/romaindr/arduinoLEDsRGB_web)
+You can check the web app [here](https://github.com/romaindr/arduinoLEDsRGB_web)
 
 
 ###You may want to check these links...
