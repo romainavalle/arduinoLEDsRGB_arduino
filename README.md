@@ -8,9 +8,9 @@ This is the Arduino part.
 It controls the arduino LED intensity when the socket responds from the node server.
 The connection to the board is done with johnny-five.
 
-## Arduino parts
+## Node server parts
 
-You can check the arduino app [here](https://github.com/romaindr/arduinoLEDsRGB_arduino)
+You can check the node server [here](https://github.com/romaindr/arduinoLEDsRGB_node)
 
 ## web app
 
