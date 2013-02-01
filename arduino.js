@@ -24,7 +24,7 @@ board.on("ready", function() {
   });
 });
 
-socket = client.connect('http://192.168.0.39:8081');  
+socket = client.connect('http://secret-fjord-1955.herokuapp.com:80');  
 socket.on('response', function (e) {
     board.emit('changeLight', e.obj);
 }); 
